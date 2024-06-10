@@ -1,0 +1,1 @@
+Key.enterKey.enterKey.shift'h''e''l''l''o'Key.spaceKey.shift'w''o''r''l''d'Key.shift'1'
